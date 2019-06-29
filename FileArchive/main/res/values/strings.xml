@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">File Archive</string>
+
+    <string name="choose">Choose a file…</string>
+    <string name="pass">Enter Password…</string>
+
+    <string name="destinationa">Select Destination…</string>
+</resources>

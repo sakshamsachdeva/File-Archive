@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    android:padding="20dp"
+    android:weightSum="4">
+
+    <EditText
+        android:id="@+id/myInputText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:clickable="true"
+        android:hint="@string/choose"
+        android:drawableEnd="@drawable/ic_attach"
+        android:focusable="true"
+        android:layout_weight="1">
+    </EditText>
+    <EditText
+        android:id="@+id/destination"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:layout_weight="1"
+        android:clickable="true"
+        android:hint="@string/destinationa"
+        android:drawableEnd="@drawable/ic_folder"
+        android:focusable="true">
+    </EditText>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/pass"
+        android:layout_weight="1"
+        android:inputType="textPassword"
+        android:hint="@string/pass"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_weight="1"
+        android:weightSum="2">
+        <ImageButton
+            android:id="@+id/extract"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_unarchive"
+            android:layout_weight="1"
+            android:background="@android:color/transparent"
+            android:contentDescription="@string/app_name"
+            tools:ignore="NestedWeights" />
+
+        <ImageButton
+            android:id="@+id/combine"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_archive"
+            android:text="@string/choose"
+            android:layout_weight="1"
+            android:background="@android:color/transparent"
+            android:contentDescription="@string/app_name" />
+    </LinearLayout>
+</LinearLayout>
