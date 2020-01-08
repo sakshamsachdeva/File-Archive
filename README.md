@@ -6,3 +6,8 @@
 - DEFLATE Compression method is used, which uses a combination of LZ77 & Huffman Coding.
 - A third-party library "zip4j" is used for encryption.
 - Advanced Encryption Standard is used with 256 bit encryption key. 
+
+<p align="center"><img src="https://github.com/sakshamsachdeva/File-Archive/blob/master/Slide1.JPG" height = "450" width="800"></p>
+  <p align="center"><img src="https://github.com/sakshamsachdeva/File-Archive/blob/master/Slide2.JPG" height = "450" width="800"></p>
+  <p align="center"><img src="https://github.com/sakshamsachdeva/File-Archive/blob/master/Slide3.JPG" height = "450" width="800"></p>
+ 
