@@ -10,4 +10,7 @@
 <p align="center"><img src="https://github.com/sakshamsachdeva/File-Archive/blob/master/Slide1.JPG" height = "450" width="800"></p>
   <p align="center"><img src="https://github.com/sakshamsachdeva/File-Archive/blob/master/Slide2.JPG" height = "450" width="800"></p>
   <p align="center"><img src="https://github.com/sakshamsachdeva/File-Archive/blob/master/Slide3.JPG" height = "450" width="800"></p>
+  <p align="center"><img src="https://github.com/sakshamsachdeva/File-Archive/blob/master/Slide4.JPG" height = "450" width="800"></p>
+  <p align="center"><img src="https://github.com/sakshamsachdeva/File-Archive/blob/master/Slide5.JPG" height = "450" width="800"></p>
+  <p align="center"><img src="https://github.com/sakshamsachdeva/File-Archive/blob/master/Slide6.JPG" height = "450" width="800"></p>
  
