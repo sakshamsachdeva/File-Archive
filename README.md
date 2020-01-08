@@ -13,4 +13,6 @@
   <p align="center"><img src="https://github.com/sakshamsachdeva/File-Archive/blob/master/Slide4.JPG" height = "450" width="800"></p>
   <p align="center"><img src="https://github.com/sakshamsachdeva/File-Archive/blob/master/Slide5.JPG" height = "450" width="800"></p>
   <p align="center"><img src="https://github.com/sakshamsachdeva/File-Archive/blob/master/Slide6.JPG" height = "450" width="800"></p>
+    <p align="center"><img src="https://github.com/sakshamsachdeva/File-Archive/blob/master/Slide7.JPG" height = "450" width="800"></p>
+
  
