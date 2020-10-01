@@ -7,12 +7,12 @@
 - A third-party library "zip4j" is used for encryption.
 - Advanced Encryption Standard is used with 256 bit encryption key. 
 
-<p align="center"><img src="https://github.com/sakshamsachdeva/File-Archive/blob/master/Slide1.JPG" height = "450" width="800"></p>
-  <p align="center"><img src="https://github.com/sakshamsachdeva/File-Archive/blob/master/Slide2.JPG" height = "450" width="800"></p>
-  <p align="center"><img src="https://github.com/sakshamsachdeva/File-Archive/blob/master/Slide3.JPG" height = "450" width="800"></p>
-  <p align="center"><img src="https://github.com/sakshamsachdeva/File-Archive/blob/master/Slide4.JPG" height = "450" width="800"></p>
- <p align="center"><img src="https://github.com/sakshamsachdeva/File-Archive/blob/master/a.JPG" height = "450" width="800"></p>
-  <p align="center"><img src="https://github.com/sakshamsachdeva/File-Archive/blob/master/b.JPG" height = "450" width="800"></p>
-    <p align="center"><img src="https://github.com/sakshamsachdeva/File-Archive/blob/master/c.JPG" height = "450" width="800"></p>
+<p align="center"><img src="https://github.com/sakshamsachdeva/File-Archive/blob/master/Slides/Slide1.JPG" height = "450" width="800"></p>
+  <p align="center"><img src="https://github.com/sakshamsachdeva/File-Archive/blob/master/Slides/Slide2.JPG" height = "450" width="800"></p>
+  <p align="center"><img src="https://github.com/sakshamsachdeva/File-Archive/blob/master/Slides/Slide3.JPG" height = "450" width="800"></p>
+  <p align="center"><img src="https://github.com/sakshamsachdeva/File-Archive/blob/master/Slides/Slide4.JPG" height = "450" width="800"></p>
+ <p align="center"><img src="https://github.com/sakshamsachdeva/File-Archive/blob/master/Slides/a.JPG" height = "450" width="800"></p>
+  <p align="center"><img src="https://github.com/sakshamsachdeva/File-Archive/blob/master/Slides/b.JPG" height = "450" width="800"></p>
+    <p align="center"><img src="https://github.com/sakshamsachdeva/File-Archive/blob/master/Slides/c.JPG" height = "450" width="800"></p>
 
  
